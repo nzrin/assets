@@ -2,12 +2,12 @@
   "title": "The Basics - Networking",
   "description": "Your app fetched this from a remote endpoint!",
   "movies": [
-    { "title": "Star Wars", "releaseYear": "1977"},
-    { "title": "Back to the Future", "releaseYear": "1985"},
-    { "title": "The Matrix", "releaseYear": "1999"},
-    { "title": "Inception", "releaseYear": "2010"},
-    { "title": "Interstellar", "releaseYear": "2014"},
-    { "title": "Interstellar", "releaseYear": "2014"},
-    { "title": "Interstellar", "releaseYear": "2014"}
+    { "title": "Star Wars", "releaseYear": "1977","bImage": "https://nzrin.github.io/assets/burger/b1.png"},
+    { "title": "Back to the Future", "releaseYear": "1985","bImage": "https://nzrin.github.io/assets/burger/b1.png"},
+    { "title": "The Matrix", "releaseYear": "1999","bImage": "https://nzrin.github.io/assets/burger/b1.png"},
+    { "title": "Inception", "releaseYear": "2010","bImage": "https://nzrin.github.io/assets/burger/b1.png"},
+    { "title": "Interstellar", "releaseYear": "2014","bImage": "https://nzrin.github.io/assets/burger/b1.png"},
+    { "title": "Interstellar", "releaseYear": "2014","bImage": "https://nzrin.github.io/assets/burger/b1.png"},
+    { "title": "Interstellar", "releaseYear": "2014","bImage": "https://nzrin.github.io/assets/burger/b1.png"}
   ]
 }
