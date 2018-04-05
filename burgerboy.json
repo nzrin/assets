@@ -1,18 +1,66 @@
-{
-  "title": "BurgerBoy App",
-  "description": "Fetch test for BurgerBoy app.",
-  "burger": [
-    { "title": "Burger Benjo Double Layer Extra", "price": "RM 8.90","image": "https://nzrin.github.io/assets/burger/b1.png"},
-    { "title": "Burger Daging Triple Layer Cheddar", "price": "RM 12.20","image": "https://nzrin.github.io/assets/burger/b2.jpg"},
-    { "title": "Burger Ayam Triple Layer Cheddar", "price": "RM 14.90","image": "https://nzrin.github.io/assets/burger/b3.jpg"},
-    { "title": "Burger Benjo Double Layer Extra", "price": "RM 5.00","image": "https://nzrin.github.io/assets/burger/b4.jpg"},
-    { "title": "Burger Daging Triple Layer Gourmet A1", "price": "RM 14.70","image": "https://nzrin.github.io/assets/burger/b5.jpg"},
-    { "title": "Burger Benjo Gourmet C1", "price": "RM 11.20","image": "https://nzrin.github.io/assets/burger/b6.jpg"},
-    { "title": "Burger Kepit Kepit Dap", "price": "RM 16.30","image": "https://nzrin.github.io/assets/burger/b7.jpg"},
-    { "title": "Burger Fresh Segar B4", "price": "RM 11.10","image": "https://nzrin.github.io/assets/burger/b8.jpg"},
-    { "title": "Burger Daging Salai", "price": "RM 16.20","image": "https://nzrin.github.io/assets/burger/b9.jpg"},
-    { "title": "Burger Gourmet Ala Ala", "price": "RM 7.40","image": "https://nzrin.github.io/assets/burger/b10.jpg"},
-    { "title": "Burger Mantap Padu Dap", "price": "RM 19.90","image": "https://nzrin.github.io/assets/burger/b11.jpeg"},
-    { "title": "Burger Jaya Segar A8", "price": "RM 8.10","image": "https://nzrin.github.io/assets/burger/b12.jpg"}
-  ]
+{  
+   "title":"BurgerBoy App",
+   "description":"Fetch test for BurgerBoy app.",
+   "burger":[  
+      {  
+         "title":"Burger Benjo Double Layer Extra",
+         "price":"RM 8.90",
+         "image":"https://nzrin.github.io/assets/burger/b1.png"
+      },
+      {  
+         "title":"Burger Daging Triple Layer Cheddar",
+         "price":"RM 12.20",
+         "image":"https://nzrin.github.io/assets/burger/b2.jpg"
+      },
+      {  
+         "title":"Burger Ayam Triple Layer Cheddar",
+         "price":"RM 14.90",
+         "image":"https://nzrin.github.io/assets/burger/b3.jpg"
+      },
+      {  
+         "title":"Burger Benjo Double Layer Extra",
+         "price":"RM 5.00",
+         "image":"https://nzrin.github.io/assets/burger/b4.jpg"
+      },
+      {  
+         "title":"Burger Daging Triple Layer Gourmet A1",
+         "price":"RM 14.70",
+         "image":"https://nzrin.github.io/assets/burger/b5.jpg"
+      },
+      {  
+         "title":"Burger Benjo Gourmet C1",
+         "price":"RM 11.20",
+         "image":"https://nzrin.github.io/assets/burger/b6.jpg"
+      },
+      {  
+         "title":"Burger Kepit Kepit Dap",
+         "price":"RM 16.30",
+         "image":"https://nzrin.github.io/assets/burger/b7.jpg"
+      },
+      {  
+         "title":"Burger Fresh Segar B4",
+         "price":"RM 11.10",
+         "image":"https://nzrin.github.io/assets/burger/b8.jpg"
+      },
+      {  
+         "title":"Burger Daging Salai",
+         "price":"RM 16.20",
+         "image":"https://nzrin.github.io/assets/burger/b9.jpg"
+      },
+      {  
+         "title":"Burger Gourmet Ala Ala",
+         "price":"RM 7.40",
+         "image":"https://nzrin.github.io/assets/burger/b10.jpg"
+      },
+      {  
+         "title":"Burger Mantap Padu Dap",
+         "price":"RM 19.90",
+         "image":"https://nzrin.github.io/assets/burger/b11.jpeg"
+      },
+      {  
+         "title":"Burger Jaya Segar A8",
+         "price":"RM 8.10",
+         "image":"https://nzrin.github.io/assets/burger/b12.jpg"
+      }
+   ]
 }
