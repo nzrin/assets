@@ -1,0 +1,14 @@
+{  
+   "title":"BurgerBoy App",
+   "description":"Fetch Order List.",
+   "burger":[  
+      {  
+         "title":"Burger Daging Triple Layer Gourmet A9",
+         "custname":"Abdul Jalil",
+         "quantity":"3",
+         "pickupdate":"24 April 2018 (9.30PM)",
+         "notes":"No sauce please. More cheddar!",
+         "price":"RM 74.40"
+      }
+   ]
+}
