@@ -25,6 +25,29 @@
          "pickupdate":"11 August 2018 (7.44PM)",
          "notes":"I like you!",
          "price":"RM 157.90"
+      },
+      {  
+         "custname":"Teresa Lim",
+         "quantity":"17",
+         "pickupdate":"9 June 2018 (5.02PM)",
+         "notes":"Anything for me.",
+         "price":"RM 129.10"
+      },
+      {  
+         "title":"Burger Ayam Panggang",
+         "custname":"Anisah Putra",
+         "quantity":"5",
+         "pickupdate":"19 April 2018 (3.14PM)",
+         "notes":"Hot and spicy!",
+         "price":"RM 47.40"
+      },
+      {  
+         "title":"Burger Daging & Ayam X5",
+         "custname":"Thana Gurusami",
+         "quantity":"7",
+         "pickupdate":"18 July 2018 (8.02PM)",
+         "notes":"I'm hungry you better serve me.",
+         "price":"RM 87.70"
       }
    ]
 }

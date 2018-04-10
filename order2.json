@@ -3,12 +3,12 @@
    "description":"Fetch Order List.",
    "burger":[  
       {  
-         "title":"Burger Daging Triple Layer Gourmet A9",
-         "custname":"Abdul Jalil",
-         "quantity":"3",
-         "pickupdate":"24 April 2018 (9.30PM)",
-         "notes":"No sauce please. More cheddar!",
-         "price":"RM 74.40"
+         "title":"Burger Bakar Terbakar AU4",
+         "custname":"Fatihah Mohara",
+         "quantity":"2",
+         "pickupdate":"12 December 2018 (5.44PM)",
+         "notes":"Bos, mayo lebih sikit.",
+         "price":"RM 17.20"
       }
    ]
 }
