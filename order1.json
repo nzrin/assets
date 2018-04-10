@@ -1,0 +1,30 @@
+{  
+   "title":"BurgerBoy App",
+   "description":"Fetch Order List.",
+   "burger":[  
+      {  
+         "title":"Burger Daging Triple Layer Gourmet A1",
+         "custname":"Abdul Jalil",
+         "quantity":"3",
+         "pickupdate":"24 April 2018 (9.30PM)",
+         "notes":"No sauce please. More cheddar!",
+         "price":"RM 74.40"
+      },
+      {  
+         "title":"Burger Benjo Double Layer Extra",
+         "custname":"Farid Sato",
+         "quantity":"12",
+         "pickupdate":"19 June 2018 (10.00PM)",
+         "notes":"Not too spicy please!",
+         "price":"RM 76.60"
+      },
+      {  
+         "title":"Burger Daging Quadcore Intel A9",
+         "custname":"Kadir Srija",
+         "quantity":"22",
+         "pickupdate":"11 August 2018 (7.44PM)",
+         "notes":"I like you!",
+         "price":"RM 157.90"
+      }
+   ]
+}
