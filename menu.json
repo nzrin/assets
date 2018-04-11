@@ -1,0 +1,42 @@
+{  
+   "title":"BurgerBoy App",
+   "description":"Fetch Order List.",
+   "burger":[  
+      {  
+         "title":"Burger Daging Triple Layer Gourmet A1",
+         "price":"RM 6.30",
+         "image":"https://nzrin.github.io/assets/burger/b1.png",
+         "status":"unavailable"
+      },
+      {  
+         "title":"Burger Benjo Double Layer Extra",
+         "price":"RM 11.70",
+         "image":"https://nzrin.github.io/assets/burger/b2.jpg",
+         "status":"available"
+      },
+      {  
+         "title":"Burger Daging Quadcore Intel A9",
+         "price":"RM 15.90",
+         "image":"https://nzrin.github.io/assets/burger/b3.jpg",
+         "status":"available"
+      },
+      {  
+         "title":"Burger Terbakar Set J",
+         "price":"RM 12.99",
+         "image":"https://nzrin.github.io/assets/burger/b4.jpg",
+         "status":"available"
+      },
+      {  
+         "title":"Burger Ayam Panggang",
+         "price":"RM 9.10",
+         "image":"https://nzrin.github.io/assets/burger/b6.jpg",
+         "status":"available"
+      },
+      {  
+         "title":"Burger Daging & Ayam X5",
+         "price":"RM 8.70",
+         "image":"https://nzrin.github.io/assets/burger/b6.jpg",
+         "status":"available"
+      }
+   ]
+}
