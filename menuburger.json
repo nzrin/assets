@@ -24,7 +24,7 @@
          "title":"Burger Terbakar Set J",
          "price":"RM 12.99",
          "image":"https://nzrin.github.io/assets/burger/b4.jpg",
-         "status":"available"
+         "status":"unavailable"
       },
       {  
          "title":"Burger Ayam Panggang",
