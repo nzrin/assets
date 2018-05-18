@@ -1,0 +1,100 @@
+{
+    "data": [
+        {
+            "id": 3,
+            "name": "Meatball",
+            "quantity": 41,
+            "current": 41,
+            "stock_in": 2,
+            "total": 0,
+            "measurement_unit": null,
+            "note": null,
+            "item_code": "FROZEN",
+            "last_restock": "4 May 2018 04:38 AM"
+        },
+        {
+            "id": 4,
+            "name": "Bread",
+            "quantity": 12,
+            "current": 12,
+            "stock_in": 0,
+            "total": 12,
+            "measurement_unit": null,
+            "note": null,
+            "item_code": "FROZEN",
+            "last_restock": "13 May 2018 18:21 PM"
+        },
+        {
+            "id": 5,
+            "name": "Sauce",
+            "quantity": 19,
+            "current": 19,
+            "stock_in": 0,
+            "total": 19,
+            "measurement_unit": null,
+            "note": null,
+            "item_code": "FROZEN",
+            "last_restock": "13 May 2018 18:21 PM"
+        },
+        {
+            "id": 6,
+            "name": "Black Pepper",
+            "quantity": 14,
+            "current": 14,
+            "stock_in": 0,
+            "total": 14,
+            "measurement_unit": null,
+            "note": null,
+            "item_code": "FROZEN",
+            "last_restock": "13 May 2018 18:21 PM"
+        },
+        {
+            "id": 7,
+            "name": "Mayonnise",
+            "quantity": 17,
+            "current": 17,
+            "stock_in": 0,
+            "total": 17,
+            "measurement_unit": null,
+            "note": null,
+            "item_code": "FROZEN",
+            "last_restock": "13 May 2018 18:21 PM"
+        },
+        {
+            "id": 27,
+            "name": "Cheese",
+            "quantity": 10,
+            "current": 10,
+            "stock_in": 0,
+            "total": 10,
+            "measurement_unit": null,
+            "note": null,
+            "item_code": "",
+            "last_restock": "13 May 2018 18:21 PM"
+        },
+        {
+            "id": 50,
+            "name": "Duck",
+            "quantity": 20,
+            "current": 20,
+            "stock_in": 20,
+            "total": 0,
+            "measurement_unit": null,
+            "note": null,
+            "item_code": "FROZEN",
+            "last_restock": "4 May 2018 02:05 AM"
+        },
+        {
+            "id": 56,
+            "name": "Chicken",
+            "quantity": 7,
+            "current": 7,
+            "stock_in": 0,
+            "total": 7,
+            "measurement_unit": null,
+            "note": null,
+            "item_code": "FROZEN",
+            "last_restock": "13 May 2018 18:21 PM"
+        }
+    ]
+}
