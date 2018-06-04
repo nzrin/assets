@@ -1,8 +1,9 @@
-{  
+{
    "title":"BurgerBoy App",
    "description":"Fetch Order List.",
-   "burger":[  
-      {  
+   "burger":[
+      {
+         "id":1,
          "title":"Burger Daging Triple Layer Gourmet A1",
          "custname":"Abdul Jalil",
          "quantity":"3",
@@ -10,7 +11,8 @@
          "notes":"No sauce please. More cheddar!",
          "price":"RM 74.40"
       },
-      {  
+      {
+         "id":2,
          "title":"Burger Benjo Double Layer Extra",
          "custname":"Farid Sato",
          "quantity":"12",
@@ -18,7 +20,8 @@
          "notes":"Not too spicy please!",
          "price":"RM 76.60"
       },
-      {  
+      {
+         "id":3,
          "title":"Burger Daging Quadcore Intel A9",
          "custname":"Kadir Srija",
          "quantity":"22",
@@ -26,7 +29,8 @@
          "notes":"I like you!",
          "price":"RM 157.90"
       },
-      {  
+      {
+         "id":4,
          "title":"Burger Terbakar Set J",
          "custname":"Teresa Lim",
          "quantity":"17",
@@ -34,7 +38,8 @@
          "notes":"Anything for me.",
          "price":"RM 129.10"
       },
-      {  
+      {
+         "id":5,
          "title":"Burger Ayam Panggang",
          "custname":"Anisah Putra",
          "quantity":"5",
@@ -42,7 +47,8 @@
          "notes":"Hot and spicy!",
          "price":"RM 47.40"
       },
-      {  
+      {
+         "id":6,
          "title":"Burger Daging & Ayam X5",
          "custname":"Thana Gurusami",
          "quantity":"7",
