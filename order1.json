@@ -9,7 +9,8 @@
          "quantity":"3",
          "pickupdate":"24 April 2018 (9.30PM)",
          "notes":"No sauce please. More cheddar!",
-         "price":"RM 74.40"
+         "price":"RM 74.40",
+         "image":"https://nzrin.github.io/assets/burger/b1.png"
       },
       {
          "id":2,
@@ -18,7 +19,8 @@
          "quantity":"12",
          "pickupdate":"19 June 2018 (10.00PM)",
          "notes":"Not too spicy please!",
-         "price":"RM 76.60"
+         "price":"RM 76.60",
+         "image":"https://nzrin.github.io/assets/burger/b2.jpg"
       },
       {
          "id":3,
@@ -27,7 +29,8 @@
          "quantity":"22",
          "pickupdate":"11 August 2018 (7.44PM)",
          "notes":"I like you!",
-         "price":"RM 157.90"
+         "price":"RM 157.90",
+         "image":"https://nzrin.github.io/assets/burger/b3.jpg"
       },
       {
          "id":4,
@@ -36,7 +39,8 @@
          "quantity":"17",
          "pickupdate":"9 June 2018 (5.02PM)",
          "notes":"Anything for me.",
-         "price":"RM 129.10"
+         "price":"RM 129.10",
+         "image":"https://nzrin.github.io/assets/burger/b4.jpg"
       },
       {
          "id":5,
@@ -45,7 +49,8 @@
          "quantity":"5",
          "pickupdate":"19 April 2018 (3.14PM)",
          "notes":"Hot and spicy!",
-         "price":"RM 47.40"
+         "price":"RM 47.40",
+         "image":"https://nzrin.github.io/assets/burger/b5.jpg"
       },
       {
          "id":6,
@@ -54,7 +59,8 @@
          "quantity":"7",
          "pickupdate":"18 July 2018 (8.02PM)",
          "notes":"I'm hungry you better serve me.",
-         "price":"RM 87.70"
+         "price":"RM 87.70",
+         "image":"https://nzrin.github.io/assets/burger/b6.jpg"
       }
    ]
 }
