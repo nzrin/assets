@@ -1,0 +1,46 @@
+{
+   "title":"Adamana App",
+   "description":"Fetch test for Adamana app.",
+   "noti":[
+      {
+         "message":"Fatimah Az-Zahra device low battery.",
+         "time":"12 January 2018, 9:41 AM",
+         "status":"battery"
+      },
+      {
+         "message":"Fatimah Az-Zahra device low battery.",
+         "time":"27 January 2018, 11:45 PM",
+         "status":"battery"
+      },
+      {
+         "message":"Nazar Syafiq device emergency alert.",
+         "time":"30 January 2018, 10:29 PM",
+         "status":"sos"
+      },
+      {
+         "message":"Faridah Zamri device low battery.",
+         "time":"13 February 2018, 3:45 PM",
+         "status":"battery"
+      },
+      {
+         "message":"Nurul Izzati device emergency alert.",
+         "time":"19 February 2018, 10:13 AM",
+         "status":"sos"
+      },
+      {
+         "message":"Norfarah Zaidi device emergency alert.",
+         "time":"1 March 2018, 2:18 PM",
+         "status":"sos"
+      },
+      {
+         "message":"Zahid Hamidah device low battery.",
+         "time":"8 March 2018, 5:15 PM",
+         "status":"battery"
+      },
+      {
+         "message":"Ahmad Termizi device low battery.",
+         "time":"16 March 2018, 9:01 PM",
+         "status":"battery"
+      }
+   ]
+}
