@@ -1,0 +1,54 @@
+{
+   "title":"Adamana App",
+   "description":"Fetch test for Adamana app.",
+   "user":[
+      {
+         "id":1,
+         "name":"Fatimah Az-Zahra",
+         "deviceid":"1506579710",
+         "image":"https://nzrin.github.io/assets/adamana/user/u1.jpg"
+      },
+      {
+         "id":2,
+         "name":"Fatimah Az-Zahra",
+         "deviceid":"2177702743",
+         "image":"https://nzrin.github.io/assets/adamana/user/u2.jpeg"
+      },
+      {
+         "id":3,
+         "name":"Nazar Syafiq",
+         "deviceid":"1962152760",
+         "image":"https://nzrin.github.io/assets/adamana/user/u3.jpg"
+      },
+      {
+         "id":4,
+         "name":"Faridah Zamri",
+         "deviceid":"2748419612",
+         "image":"https://nzrin.github.io/assets/adamana/user/u4.jpg"
+      },
+      {
+         "id":5,
+         "name":"Nurul Izzati",
+         "deviceid":"1573647783",
+         "image":"https://nzrin.github.io/assets/adamana/user/u5.jpg"
+      },
+      {
+         "id":6,
+         "name":"Norfarah Zaidi",
+         "deviceid":"0118579621",
+         "image":"https://nzrin.github.io/assets/adamana/user/u6.jpg"
+      },
+      {
+         "id":7,
+         "name":"Zahid Hamidah",
+         "deviceid":"5997440349",
+         "image":"https://nzrin.github.io/assets/adamana/user/u7.jpg"
+      },
+      {
+         "id":8,
+         "name":"Ahmad Termizi",
+         "deviceid":"8884200958",
+         "image":"https://nzrin.github.io/assets/adamana/user/u8.jpg"
+      }
+   ]
+}
